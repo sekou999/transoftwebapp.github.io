@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/transoftwebapp.github.io/static/css/main.a855a5c7.css",
+    "main.js": "/transoftwebapp.github.io/static/js/main.b1a61acb.js",
+    "static/js/453.501e18a5.chunk.js": "/transoftwebapp.github.io/static/js/453.501e18a5.chunk.js",
+    "index.html": "/transoftwebapp.github.io/index.html",
+    "main.a855a5c7.css.map": "/transoftwebapp.github.io/static/css/main.a855a5c7.css.map",
+    "main.b1a61acb.js.map": "/transoftwebapp.github.io/static/js/main.b1a61acb.js.map",
+    "453.501e18a5.chunk.js.map": "/transoftwebapp.github.io/static/js/453.501e18a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a855a5c7.css",
+    "static/js/main.b1a61acb.js"
+  ]
+}
