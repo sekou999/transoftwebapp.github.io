@@ -1,5 +1,5 @@
 import React ,{ useContext } from 'react';
-import styles from './Recherche.module.css'; // Import du fichier CSS Module
+import styles from './Recherche.module.css'; // Import du fichier CSS  
  
 
 function Recherche() {
