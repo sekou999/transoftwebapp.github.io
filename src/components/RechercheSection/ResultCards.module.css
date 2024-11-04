@@ -1,0 +1,38 @@
+.resultCard {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    width: 250px;
+    text-align: left;
+  }
+  
+  .resultCard h3 {
+    background-color: #3498db;
+    color: white;
+    padding: 0.5rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin: -1rem -1rem 1rem -1rem;
+    font-size: 16px;
+  }
+  
+  .resultCard p {
+    margin: 0.5rem 0;
+    color: black;
+  }
+  
+  .reserveButton {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .reserveButton:hover {
+    background-color: #c0392b;
+  }
