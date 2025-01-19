@@ -1,0 +1,43 @@
+/* Sidebar.module.css */
+
+.sidenav {
+    background-color: #343a40; /* Equivalent to 'sb-sidenav-dark' */
+    width: 250px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sidenavMenu {
+    padding: 1rem;
+  }
+  
+  .nav {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .menuHeading {
+    color: #adb5bd;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .navLink {
+    color: #ffffff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.2s ease;
+  }
+  
+  .navLink:hover {
+    background-color: #495057;
+  }
+  
+  .icon {
+    margin-right: 0.5rem;
+  }
+  

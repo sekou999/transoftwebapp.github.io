@@ -6,6 +6,7 @@ import Contact from './pages/Contact';
 import About from './pages/About';
 import Inscription from "./pages/Inscription";
 import Accueil from "./pages/Accueil";
+import Dashboard from "./pages/DashBoard";
 import { AuthProvider } from '../src/components/Security/AuthContext';
 
 
@@ -25,6 +26,7 @@ const App = () => {
           <Route path="/contact" element={<Contact />} />
           <Route path="/about" element={<About />} />
           <Route path="*" element={<Accueil />} />
+          <Route path="/dashboard" element={<Dashboard />} />
         </Route>
       </Routes>
     </AuthProvider>

@@ -1,0 +1,35 @@
+/* Variables de couleurs */
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --accent-color: #e74c3c;
+    --text-color: #333;
+    --bg-color: #f4f4f4;
+  }
+  
+  /* Réinitialisation */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    background: transparent;
+  }
+  .card {
+    background-color: var(--primary-color);
+    position: relative;
+    display: flex;
+    /* flex-direction: row; */
+    width: 55%;
+
+    border-radius: 5px;
+    margin-bottom: 5px;
+    justify-content: space-between;
+  }
