@@ -46,6 +46,7 @@ function Navbar() {
             <li><NavLink to="/recherche">Rechercher un Voyage</NavLink></li>
             <li><NavLink to="/contact">Nous-Contactez</NavLink></li>
             <li><NavLink to="/about">A propos</NavLink></li>
+            <li><NavLink to="/" onClick={() => logout()}>Se deconnecter</NavLink></li>
           {/*   <li><NavLink to="/" onClick={() => logout()}>Se deconnecter</NavLink></li>*/}
            
 
