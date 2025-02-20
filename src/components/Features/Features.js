@@ -20,7 +20,10 @@ function Features() {
           <h3>Service client 24/7</h3>
           <p>Notre équipe est à votre disposition pour vous assister à tout moment.</p>
         </div>
+<<<<<<< HEAD
+=======
         
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86
       </div>
     </div>
   );

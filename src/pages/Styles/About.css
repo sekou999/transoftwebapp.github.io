@@ -19,7 +19,11 @@ body {
 }
 
 .hero {
+<<<<<<< HEAD
+    background: linear-gradient(rgba(52, 152, 219, 0.7), rgba(41, 128, 185, 0.7)), url('https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+=======
     background: linear-gradient(rgba(52, 152, 219, 0.7), rgba(41, 128, 185, 0.7)), url('public/img/photo-1544620347-c4fd4a3d5957.avif');
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86
     background-size: cover;
     background-position: center;
     color: white;

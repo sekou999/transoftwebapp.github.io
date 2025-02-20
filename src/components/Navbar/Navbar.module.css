@@ -21,11 +21,20 @@ body {
   color: var(--text-color);
   line-height: 1.6;
 }
+<<<<<<< HEAD
+header {
+=======
 .header {
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86
   color: white;
   padding: 10px 0;
 }
 .logo{
+<<<<<<< HEAD
+    position: relative;
+    top: 5px;
+  }
+=======
   /* position: relative; */
   top: 5px;
 }
@@ -37,6 +46,7 @@ span{
   bottom: 15px;
   font-size: 1.5em;
 }
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86
   nav {
     display: flex;
     justify-content: space-between;
@@ -46,7 +56,11 @@ span{
     top: 0;
     left: 0;
     width: 100%;
+<<<<<<< HEAD
+    height: 10%;
+=======
     height: 12%;
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86
     z-index: 1000;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
@@ -96,6 +110,8 @@ span{
     margin: 5px 0;
     transition: 0.4s;
   }
+<<<<<<< HEAD
+=======
 
   
   /* Style pour le menu deroulant  */
@@ -150,6 +166,7 @@ span{
   }
   
 
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86
 /* .burger-menu {
     display: none;
     cursor: pointer;
@@ -264,5 +281,9 @@ span{
     }
   
   }
+<<<<<<< HEAD
+  
+=======
   
  
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86

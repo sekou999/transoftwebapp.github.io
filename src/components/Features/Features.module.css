@@ -3,7 +3,11 @@
     position: relative;
     padding: 20px 0;
     margin: 0;
+<<<<<<< HEAD
+    width: 100%;
+=======
     max-width: 1200px;
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86
   }
   
   .features {

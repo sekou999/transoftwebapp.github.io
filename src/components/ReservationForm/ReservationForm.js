@@ -2,7 +2,10 @@ import React from "react";
 import styles from "./ReservationForm.module.css"; // Import des styles CSS Modules
 
 function ReservationForm() {
+<<<<<<< HEAD
+=======
    
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86
   return (
     <div className={styles.containerB}>
       <h2 className={styles.title}>Réservation de Voyage</h2>

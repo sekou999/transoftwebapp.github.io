@@ -1,5 +1,10 @@
 .Companies {
+<<<<<<< HEAD
+
+    padding: 6rem 0;
+=======
     padding: 4rem 0;
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86
     text-align: center;
   }
   
@@ -11,16 +16,24 @@
     font-size: 2.5rem;
     color: #ffffff;
     margin-bottom: 2rem;
+<<<<<<< HEAD
+  }
+  
+=======
     
   }
   
   
   
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86
   .companies {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); /* Grille responsive */
     gap: 2rem;
+<<<<<<< HEAD
+=======
     
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86
   }
   
   .compagniesGrid {

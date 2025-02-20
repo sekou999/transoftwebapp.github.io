@@ -54,7 +54,11 @@ body {
     border-radius: 5px;
     text-decoration: none;
     font-weight: 600;
+<<<<<<< HEAD
+    transition: background-color 0.3s ease;
+=======
     transition: background-color 1.3s ease;
+>>>>>>> 17fb87993fd7be3893e720356ca62f90e1d5ee86
   }
   
   .btn:hover {
